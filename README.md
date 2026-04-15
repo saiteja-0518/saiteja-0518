@@ -81,8 +81,8 @@ A backend system implementing complete CRUD operations with PostgreSQL integrati
 
 ## Connect With Me
 
-🔗 LinkedIn: [https://www.linkedin.com/in/sai-teja-gollapalli/]
-📧 Email: [saitejagollapalli2004@gamil.com ]
+ LinkedIn: [https://www.linkedin.com/in/sai-teja-gollapalli/]
+ Email: [saitejagollapalli2004@gamil.com ]
 
 ---
 
